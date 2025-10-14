@@ -91,4 +91,10 @@ var urls [][]string = [][]string{
 		"static2.cdn.Ubi.com",
 		"static1.cdn.Ubi.com",
 	},
+	{
+		"huggingface",
+		"huggingface.co",
+		"cdn-lfs.huggingface.co",
+		"www.huggingface.co",
+	}
 }
