@@ -70,3 +70,7 @@ platforms:
   - gamesdb.gog.com
   - external-accounts.gog.com
   - www.gog.com
+- - huggingface
+  - huggingface.co
+  - www.huggingface.co
+  - cdn-lfs.huggingface.co
