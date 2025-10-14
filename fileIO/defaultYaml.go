@@ -96,5 +96,5 @@ var urls [][]string = [][]string{
 		"huggingface.co",
 		"cdn-lfs.huggingface.co",
 		"www.huggingface.co",
-	}
+	},
 }
