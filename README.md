@@ -38,95 +38,95 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.114.25			alive.github.com
+140.82.112.25			alive.github.com
 140.82.113.25			live.github.com
 185.199.111.215			github.githubassets.com
-140.82.112.21			central.github.com
-185.199.109.133			desktop.githubusercontent.com
+140.82.114.22			central.github.com
+185.199.111.133			desktop.githubusercontent.com
 ####			assets-cdn.github.com
 185.199.110.133			camo.githubusercontent.com
-185.199.109.133			github.map.fastly.net
+185.199.110.133			github.map.fastly.net
 151.101.193.194			github.global.ssl.fastly.net
-140.82.112.4			gist.github.com
+140.82.116.3			gist.github.com
 185.199.109.153			github.io
-140.82.114.4			github.com
+140.82.116.4			github.com
 192.0.66.2			github.blog
-140.82.112.5			api.github.com
+140.82.116.6			api.github.com
 185.199.108.133			raw.githubusercontent.com
-185.199.111.133			user-images.githubusercontent.com
-185.199.108.133			favicons.githubusercontent.com
+185.199.108.133			user-images.githubusercontent.com
+185.199.111.133			favicons.githubusercontent.com
 185.199.108.133			avatars5.githubusercontent.com
-185.199.108.133			avatars4.githubusercontent.com
-185.199.111.133			avatars3.githubusercontent.com
+185.199.109.133			avatars4.githubusercontent.com
+185.199.109.133			avatars3.githubusercontent.com
 185.199.111.133			avatars2.githubusercontent.com
-185.199.111.133			avatars1.githubusercontent.com
-185.199.111.133			avatars0.githubusercontent.com
-185.199.111.133			avatars.githubusercontent.com
-140.82.113.9			codeload.github.com
-16.15.207.151			github-cloud.s3.amazonaws.com
-52.216.76.244			github-com.s3.amazonaws.com
-16.15.207.151			github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.73.217			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.233.129			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153			githubstatus.com
+185.199.108.133			avatars1.githubusercontent.com
+185.199.108.133			avatars0.githubusercontent.com
+185.199.109.133			avatars.githubusercontent.com
+140.82.116.9			codeload.github.com
+52.217.94.60			github-cloud.s3.amazonaws.com
+52.216.32.113			github-com.s3.amazonaws.com
+16.15.245.98			github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.207.147			github-production-user-asset-6210df.s3.amazonaws.com
+16.15.245.98			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153			githubstatus.com
 140.82.114.18			github.community
 20.99.227.183			github.dev
-185.199.109.133			media.githubusercontent.com
-23.217.77.221			store.steampowered.com
+185.199.110.133			media.githubusercontent.com
+23.199.21.199			store.steampowered.com
 #github End
-# Last Update Time : 2026-08-02 09:47:01 
+# Last Update Time : 2026-08-02 20:56:49 
 
 #steam Start
-184.30.89.225			steamcommunity.com
-184.27.149.74			www.steamcommunity.com
-23.217.77.221			store.steampowered.com
-184.30.89.225			api.steampowered.com
-184.30.89.225			help.steampowered.com
-23.215.223.50			store.akamai.steamstatic.com
-23.62.226.136			steamcdn-a.akamaihd.net
-23.215.223.52			cdn.akamai.steamstatic.com
-184.27.149.74			steam-chat.com
-23.215.223.7			community.akamai.steamstatic.com
+104.68.104.163			steamcommunity.com
+104.68.112.116			www.steamcommunity.com
+23.199.21.199			store.steampowered.com
+104.68.104.163			api.steampowered.com
+104.68.104.163			help.steampowered.com
+23.192.228.18			store.akamai.steamstatic.com
+23.62.46.211			steamcdn-a.akamaihd.net
+23.192.228.24			cdn.akamai.steamstatic.com
+104.68.112.116			steam-chat.com
+23.192.228.19			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2026-08-02 09:47:02 
+# Last Update Time : 2026-08-02 20:56:50 
 
 #Ubisoft_download Start
-184.29.31.93			static3.cdn.Ubi.com
-184.29.31.245			static2.cdn.Ubi.com
-184.85.248.65			static1.cdn.Ubi.com
+23.199.21.72			static3.cdn.Ubi.com
+23.36.21.209			static2.cdn.Ubi.com
+193.108.91.206			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2026-08-02 09:47:02 
+# Last Update Time : 2026-08-02 20:56:50 
 
 #docker Start
 23.185.0.4			docker.com
-172.64.144.69			hub.docker.com
-108.156.245.124			docs.docker.com
-104.18.43.182			login.docker.com
-13.216.192.76			registry.hub.docker.com
-32.197.10.162			docker.io
-44.215.246.172			registry-1.docker.io
-100.61.215.205			index.docker.io
+104.18.43.187			hub.docker.com
+65.8.54.115			docs.docker.com
+172.64.144.74			login.docker.com
+100.25.238.146			registry.hub.docker.com
+100.60.188.189			docker.io
+100.25.235.47			registry-1.docker.io
+34.194.68.190			index.docker.io
 #docker End
-# Last Update Time : 2026-08-02 09:47:02 
+# Last Update Time : 2026-08-02 20:56:50 
 
 #gog galaxy Start
-151.101.193.241			auth.gog.com
+151.101.65.241			auth.gog.com
 151.101.193.241			www.gogalaxy.com
-151.101.193.241			remote-config.gog.com
-151.101.1.241			insights-collector.gog.com
-151.101.129.241			gameplay.gog.com
-151.101.65.241			gamesdb.gog.com
-151.101.1.241			external-accounts.gog.com
-151.101.1.241			www.gog.com
+151.101.65.241			remote-config.gog.com
+151.101.65.241			insights-collector.gog.com
+151.101.193.241			gameplay.gog.com
+151.101.129.241			gamesdb.gog.com
+151.101.65.241			external-accounts.gog.com
+151.101.65.241			www.gog.com
 #gog galaxy End
-# Last Update Time : 2026-08-02 09:47:03 
+# Last Update Time : 2026-08-02 20:56:50 
 
 #huggingface Start
-52.84.217.103			huggingface.co
-52.84.217.103			www.huggingface.co
+108.138.246.85			huggingface.co
+108.138.246.85			www.huggingface.co
 205.251.199.163			cdn-lfs.huggingface.co
 #huggingface End
-# Last Update Time : 2026-08-02 09:47:03 
+# Last Update Time : 2026-08-02 20:56:50 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
